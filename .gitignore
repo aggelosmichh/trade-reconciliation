@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Generated data/output — reproducible via generate_mock_data.py / reconcile.py
+client_trades.csv
+company_trades.csv
+reconciliation_report.csv

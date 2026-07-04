@@ -8,7 +8,9 @@
       "PowerShell(py --version)",
       "Bash(wsl.exe -l -v)",
       "Bash(wsl.exe python3 *)",
-      "Bash(rm -rf \"/c/Users/exper/AppData/Local/Temp/claude/c--Users-exper-Desktop-Projects-trade-reconciliation/1baaacbb-0529-46c9-bab1-f42712881cd9/scratchpad/pytest\")"
+      "Bash(rm -rf \"/c/Users/exper/AppData/Local/Temp/claude/c--Users-exper-Desktop-Projects-trade-reconciliation/1baaacbb-0529-46c9-bab1-f42712881cd9/scratchpad/pytest\")",
+      "Bash(gh api *)",
+      "Bash(gh auth *)"
     ],
     "additionalDirectories": [
       "C:\\Users\\exper\\AppData\\Local\\Temp\\claude\\c--Users-exper-Desktop-Projects-trade-reconciliation\\1baaacbb-0529-46c9-bab1-f42712881cd9\\scratchpad\\pytest"
